@@ -800,3 +800,15 @@ You can now test the webhook using Swagger UI.
 # License
 
 This project is intended for educational and development purposes.
+
+---
+
+# Demo Video
+
+The demo video demonstrates the complete incident decision workflow, including the three required scenarios:
+
+- Respond
+- Ask
+- Escalate (Annual Leave Request)
+
+[Watch the Demo Video](https://drive.google.com/file/d/1lfrDoRwjHhftSrZLvQ8-IushPfpqBe8b/view?usp=sharing)
