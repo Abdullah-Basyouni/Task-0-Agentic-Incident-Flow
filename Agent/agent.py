@@ -19,7 +19,7 @@ def agentDecision(knowledge, ticket):
     )
 
     # Load prompt from prompt.txt
-    with open("Agent/prompt.txt", "r", encoding="utf-8") as file:
+    with open("prompt.txt", "r", encoding="utf-8") as file:
         prompt_text = file.read()
 
     # Create prompt template
